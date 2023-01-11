@@ -5,6 +5,7 @@
 ### Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjcoleman)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### About me
 - 🔭 I’m currently working on [hellobrightline.com](hellobrightline.com), a pediatric behavioral health startup!
