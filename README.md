@@ -2,6 +2,11 @@
 
 ![](https://vbr.wocr.tk/badge?page_id=kevinjcoleman&color=55acb7&style=for-the-badge&logo=Github)
 
+### Language Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjcoleman)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### About me
 - 🔭 I’m currently working on [hellobrightline.com](hellobrightline.com), a pediatric behavioral health startup!
 - 🌱 I’m currently learning how to bake 🥖.
 - 👯 I’m looking to collaborate on helping people around the world, and also fight for progressive policies the USA.
