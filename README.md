@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://github.com/kevinjcoleman/kevinjcoleman/blob/main/header.png">
+</p>
+
 ### Hi there I'm Kevin Coleman! 👋
 
 ![](https://vbr.wocr.tk/badge?page_id=kevinjcoleman&color=55acb7&style=for-the-badge&logo=Github)
