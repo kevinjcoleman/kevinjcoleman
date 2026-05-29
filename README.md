@@ -18,4 +18,4 @@
 - 💬 Ask me about my 3 cats (Colby 🐈, Kaya 🐈‍⬛, Lily 🐈), my dogs Finn 🐶 and Olive 🦮.
 - 📫 How to reach me: [kevin@kevincoleman.net](mailto:kevin@kevincoleman.net).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I was an ocean lifeguard 🛟 in Newport Beach, CA 🏖 in high school/college and one summer I saved 80+ people people from drowning. One of the rescues I pulled 5 people out of the ocean 🌊 at once! 😎
+- ⚡ Fun fact: I was an ocean lifeguard 🛟 in Newport Beach, CA 🏖 in high school/college and one summer I saved 80+ people from drowning. One of the rescues I pulled 5 people out of the ocean 🌊 at once! 😎
