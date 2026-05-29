@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [spaceback.com](https://spaceback.com), a social display AdTech company!
 - 🌱 In my free time, I'm learning how to bake  🥖, caring for my yard and veggie garden, and trying to break 100 in golf.
 - 👯 I’m looking to collaborate on helping people around the world, and also fight for progressive policies the USA.
-- 💬 Ask me about my 3 cats (Colby 🐈, Kaya 🐈‍⬛, Lily 🐈), my dog Finn 🐶.
+- 💬 Ask me about my 3 cats (Colby 🐈, Kaya 🐈‍⬛, Lily 🐈), my dogs Finn 🐶 and Olive 🦮.
 - 📫 How to reach me: [kevin@kevincoleman.net](mailto:kevin@kevincoleman.net).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I was an ocean lifeguard 🛟 in Newport Beach, CA 🏖 in high school/college and one summer I saved 80+ people people from drowning. One of the rescues I pulled 5 people out of the ocean 🌊 at once! 😎
