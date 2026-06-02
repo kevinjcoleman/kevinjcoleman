@@ -7,9 +7,6 @@
 ![](https://vbr.wocr.tk/badge?page_id=kevinjcoleman&color=55acb7&style=for-the-badge&logo=Github)
 
 ### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjcoleman)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### About me
 - 🔭 I’m currently working on [spaceback.com](https://spaceback.com), a social display AdTech company!
