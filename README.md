@@ -4,8 +4,6 @@
 
 ![](https://vbr.wocr.tk/badge?page_id=kevinjcoleman&color=55acb7&style=for-the-badge&logo=Github)
 
-### Language Stats
-
 ### About me
 - 🔭 I’m currently working on [spaceback.com](https://spaceback.com), a social display AdTech company!
 - 🌱 In my free time, I'm learning how to bake  🥖, caring for my yard and veggie garden, and trying to break 100 in golf.
