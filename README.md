@@ -5,8 +5,8 @@
 ![](https://vbr.wocr.tk/badge?page_id=kevinjcoleman&color=55acb7&style=for-the-badge&logo=Github)
 
 ### About me
-- 🔭 I’m currently working on [spaceback.com](https://spaceback.com), a social display AdTech company!
-- 🌱 In my free time, I'm learning how to bake  🥖, caring for my yard and veggie garden, and trying to break 100 in golf.
+- 🔭 I’m currently working on [numero.ai](https://numero.ai).
+- 🌱 In my free time, I love baking 🥖, caring for my yard and veggie garden, and trying to break 100 in golf.
 - 👯 I’m looking to collaborate on helping people around the world, and also fight for progressive policies the USA.
 - 💬 Ask me about my baby daugher Siena, my 2 dogs (Finn 🐶 and Olive 🦮), and my 3 cats (Colby 🐈, Kaya 🐈‍⬛, Lily 🐈).
 - 📫 How to reach me: [kevin@kevincoleman.net](mailto:kevin@kevincoleman.net).
